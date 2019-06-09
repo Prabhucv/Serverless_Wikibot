@@ -34,11 +34,14 @@ Tonsser Challenge - Serverless Wikibot: A bot scrapping finance information from
 * Cloud PubSub: Serverless Message Queue for decoupling the reception and processing of the messages 
 
 ## Usage
-1. Open the Wikibot Channel from the list
+1. Click on the below link and join the wikibot channel
+
+      [Click here to join the wikibot slack channel](https://join.slack.com/t/wikibotai/shared_invite/enQtNjQ0MjYzMzc2OTk0LWYyYzBjMTU1ZGQyZWIzOWMzYWZlZjY5ZWUwZjdiZjIyMDJmNTgyMDFjNmY1ODcwYTAxMmY5NzI5YmRkNjg5Yjc)
+
 2. Use slash command: /fininfo "Company Name"
    * Examples: /fininfo Ford Motor Company 
 3. View the corresponding finance information related to the company
-###### Note: Considering the owner of the wikibot has invited you to the channel
+###### Note: Wikibot channel join invite link expires in 25 days
 
 ## Running the Testcases
 1. Create a virtual Envirnoment using the command: 
