@@ -31,6 +31,13 @@ Tonsser Challenge - Serverless Wikibot: A bot scrapping finance information from
     * extractResponse compute: Receives the data from topic of Cloud PubSub and performs scrapping, formatting and currency conversion and post the message to the slack.
 * Cloud PubSub: Serverless Message Queue for decoupling the reception and processing of the messages 
 
+## Usage:
+1. Open the Wikibot Channel from the list
+2. Use slash command: /fininfo "Company Name"
+   * Examples: /fininfo Ford Motor Company 
+3. View the corresponding finance information related to the company
+###### Note: Considering the owner of the wikibot has invited you to the channel
+
 ## Assumptions:
 * Considering Slack Channel as frontend application terminal for interacting with Wikibot
 * Backend application could be any service not necessarily to be a simple python module
