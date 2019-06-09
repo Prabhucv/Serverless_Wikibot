@@ -6,7 +6,7 @@ Approach:
 2. Leveraging Serverless Queueing system to decouple the computing service to increase scalability and fault torelance
 3. Building the modules like data reception, data pre-processing, data scraping, applying conversion and formating response in  Cloud Functions using Python
 4. Integrating with Queueing system with Cloud Functions
-5. Integrating with Slack app to provide the frontend capability
+5. Integrating with Slack app to enable the frontend capability
 5. Writing unit testcases to performs the tests
 6. Deploying the application and performing the end to end testing Manually
 
