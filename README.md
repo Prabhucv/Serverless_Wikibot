@@ -1,5 +1,5 @@
 # TonsserChallenge
-Tonsser Challenge
+Tonsser Challenge - Serverless Wikibot: A bot scrapping finance information from Wikipedia 
 
 ## Approach:
 1. Designing best in class serverless architecture to ensure scalability and performance
@@ -34,12 +34,12 @@ Tonsser Challenge
 ## Assumptions:
 * Considering Slack Channel as frontend application terminal for interacting with Wikibot
 * Backend application could be any service not necessarily to be a simple python module
-* Currency Conversion for North America - Includes logic for US and Canada  
+* Currency Conversion for North America - Included logics for US and Canada  
 * Conversion rate of dollars : US$1 -> 6.62 DKK, CA$1 -> 4.95
 
 ## Future Enhancements:
 * NoSQL DB could be added to store the logs and processes to server the customers better by applying ML
 * Expanding the currencies available in the world to serve users across the world
 * Expanding the scraping capability by adding modules for other finance websites like bloomberg.com and investing.com based on the available permissions
-* Widening the search topics from finance industry to retail based on the requirement 
+* Widening the search topics across domains like finance, retail, etc based on the requirement 
 
