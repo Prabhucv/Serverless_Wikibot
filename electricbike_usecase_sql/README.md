@@ -1,5 +1,5 @@
-# TonsserChallenge
-Tonsser Challenge - Electric Bike UseCase - 3 Queries  
+# Electric Bike SQL Challenge
+Electric Bike UseCase - 3 Queries  
 
 ## Query 1
 List the name, model and battery_capacity of all scooters in city ’Copenhagen’ that have a rental reservation between noon of 08/07/2019 and midnight of 15/07/2019 (both inclusive) for a customer with an Android phone.
