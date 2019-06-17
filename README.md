@@ -1,5 +1,5 @@
-# TonsserChallenge
-Tonsser Challenge - Serverless Wikibot: A bot scrapping finance information from Wikipedia 
+# Serverless Wikibot
+Serverless Wikibot: A bot scrapping finance information from Wikipedia 
 
 ## Approach
 1. Designing best in class serverless architecture to ensure scalability and performance
