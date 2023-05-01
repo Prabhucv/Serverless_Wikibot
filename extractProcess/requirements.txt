@@ -2,6 +2,6 @@
 # package>=version
 wikipedia==1.4.0 
 google-api-python-client==1.7.8
-flask==1.0.2
+flask==2.3.2
 beautifulsoup4==4.7.1 
 slackclient==2.0.1
